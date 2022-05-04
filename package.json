@@ -1,0 +1,29 @@
+{
+  "name": "node_js_clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike1tesla/nodejs.git"
+  },
+  "keywords": [
+    "hai-tuyen-nodejs"
+  ],
+  "author": "hai-tuyen-mike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mike1tesla/nodejs/issues"
+  },
+  "homepage": "https://github.com/mike1tesla/nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
